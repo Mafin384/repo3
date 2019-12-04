@@ -1,6 +1,7 @@
 bad.txt
 badidea.txt
 filelist.txt
+good.txt
 goodidea.txt
 readme.txt
 test.htm
