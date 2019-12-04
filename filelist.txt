@@ -1,0 +1,7 @@
+bad.txt
+badidea.txt
+filelist.txt
+goodidea.txt
+readme.txt
+test.htm
+test.txt
